@@ -1,0 +1,14 @@
+
+#pip install pipenv
+
+#pip install pipenv shell
+pipenv shell
+
+#Check virutual Environment
+pipenv --version
+
+#Install Django Package
+pip install django
+
+#You Can Check django-admin Commands
+django-admin
